@@ -33,7 +33,7 @@ export default function Sidebar({ rantCount, totalVotes, activeTag, onTagChange,
           </div>
           <div style={{ fontWeight:'700', fontSize:'14px', marginBottom:'4px' }}>r/rantit</div>
           <p style={{ fontSize:'12px', color:'var(--text2)', lineHeight:'1.5', marginBottom:'10px' }}>
-            The internet's screaming room for tech horrors. Post your rage. Be heard.
+            The internet&apos;s screaming room for tech horrors. Post your rage. Be heard.
           </p>
           <div style={{ display:'flex', gap:'20px', marginBottom:'12px' }}>
             <div>
